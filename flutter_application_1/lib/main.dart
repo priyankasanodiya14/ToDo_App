@@ -59,7 +59,7 @@ class _TodoHomePageState extends State<TodoHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('To-Do App'),
+        title: Text('ToDo App'),
       ),
       body: Column(
         children: [
